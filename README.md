@@ -6,6 +6,8 @@ This project reads macOS Preview's saved PDF view state, calculates reading
 progress for PDFs in a study folder, writes a JSON file, and displays it with
 an Übersicht desktop widget.
 
+**Thanks to Codex.**
+
 ## Files
 
 - `Sources/study_progress.swift`: reads PDF page counts and Preview view state,
