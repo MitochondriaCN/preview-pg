@@ -1,6 +1,6 @@
 # preview-pg
 
-[中文版README](README_zh.md)
+[中文版README](README_zh.md)——注意：中文版是正本，此为译本。
 
 Periodically exports your PDF reading progress from macOS Preview as JSON.
 You can also give it a folder so it only exports progress for PDFs inside that
