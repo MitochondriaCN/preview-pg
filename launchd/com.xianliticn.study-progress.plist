@@ -7,7 +7,7 @@
 
   <key>ProgramArguments</key>
   <array>
-    <string>/Users/xianliticn/Library/Application Support/UbersichtStudyProgress/run-daily.sh</string>
+    <string>/Users/xianliticn/Library/Application Support/UbersichtStudyProgress/study-progress-refresh</string>
   </array>
 
   <key>StartInterval</key>
